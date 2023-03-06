@@ -1,4 +1,3 @@
-//GGGGGG
 function App() {
   return <div className = "wrapper clear"> 
   <header className = "d-flex justify-between align-center p-40">
